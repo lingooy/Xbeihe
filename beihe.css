@@ -1,0 +1,39 @@
+			body{
+				background-color: rgb(216, 253, 6);
+			}
+			h1{
+				color:rgb(0, 0, 0);
+				text-align:center;
+				font-size: 70px;
+			}
+			h2{
+				color:rgb(7, 140, 228);
+				font-size: 30px;
+			}
+			p{
+				color:rgb(0, 85, 255);
+				font-size: 25px;
+			}
+			a{
+				color:black;
+				text-align: center;
+			}
+			img{
+			    display: table-cell;
+			}
+			#beihe {
+			    border-radius: 25px;
+			    background: #aaffff;
+			    padding: 50px; 
+			    width: 100px;
+			    height: 50px;
+				opacity:1;/*透明*/
+			}
+			#a{
+				border-radius: 25px;
+			    background: #0e8585;
+			    padding: 20px; 
+			    width: 200px;
+			    height: 150px;
+				text-align: center;
+			}
